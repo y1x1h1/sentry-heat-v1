@@ -1,0 +1,26 @@
+# Keil MDK-ARM build artifacts
+*.o
+*.crf
+*.d
+*.dep
+*.axf
+*.hex
+*.lst
+*.iex
+*.htm
+*.map
+*.build_log.htm
+*.ini
+*.scvd
+*.uvguix.*
+*.jpg
+
+# Keil project backup
+*.uvprojx.bak
+*.uvoptx.bak
+
+# MDK-ARM output directories
+RTE/
+Listings/
+Objects/
+DebugConfig/
